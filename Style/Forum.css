@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+
+html,
+body {
+  font-family: "Acme", sans-serif;
+  height: 98%;
+  background-color: #efeff7;
+}
+
+p {
+  margin: 0;
+}
